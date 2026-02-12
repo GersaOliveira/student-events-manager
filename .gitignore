@@ -1,0 +1,11 @@
+# Pastas de compilação .NET
+bin/
+obj/
+
+# Configurações locais do Visual Studio
+.vs/
+
+# Pastas de dependências do React
+node_modules/
+
+.env
